@@ -38,10 +38,7 @@ License:
 This project is licensed under the [MIT License](LICENSE).
 
 Authors:
-- [Author Name](author@email.com)
-
-Acknowledgments:
-- Mention any contributors or resources you've used in developing the system.
+- SHREY GOYAL (shreygoyal73@gmail.com)
 
 Disclaimer:
 This project is developed for educational purposes only. It is not intended for use in real-world applications without proper testing and validation.
